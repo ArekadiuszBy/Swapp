@@ -2,25 +2,25 @@
 
 
 ```diff
-_________________________________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________________________
 ```
 ## Screenshots
 
 ```diff
-+ 
++ Here is app main logo 
 ```
 
 ![Alt text](/Views_SWAPP/start.png?raw=true "Title")
 ```diff
 
-+ Here is app main logo 
++ Here is start screen
 
 ```
 
 ![Alt text](/Views_SWAPP/1.png?raw=true "Title")
 ```diff
 
-+ Here is start screen
++ We can login to website using previously registered email and password (Email must contain character, @, mail name, dot, domain | Password must be min. 8 character long)
 
 ```
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ```diff
 
-+ We can login to website using previously registered email and password (Email must contain character, @, mail name, dot, domain | Password must be min. 8 character long)
++ 
 
 ```
 ![Alt text](/Views_SWAPP/3.png?raw=true "Title")
