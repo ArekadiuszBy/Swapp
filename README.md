@@ -2,7 +2,7 @@
 
 
 ```diff
-______________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________
 ```
 ## Screenshots
 
@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ```diff
 
-+ 
++ Here is shown Register Form validation
 
 ```
 ![Alt text](/Views_SWAPP/3.png?raw=true "Title")
@@ -37,29 +37,28 @@ ________________________________________________________________________________
 ![Alt text](/Views_SWAPP/4.png?raw=true "Title")
 
 ```diff
-+ Here is shown Register Form validation
++ Main screen of the application
 ```
 
 ![Alt text](/Views_SWAPP/5.png?raw=true "Title")
 
 ```diff
-+ Main screen of the application
++ Item reservation info
 ```
 
 ![Alt text](/Views_SWAPP/6.png?raw=true "Title")
 
 ```diff
-+ Item reservation info
+
 ```
 
 ![Alt text](/Views_SWAPP/7.png?raw=true "Title")
 
-
-![Alt text](/Views_SWAPP/8.png?raw=true "Title")
-
 ```diff
 + Main page continued.
 ```
+![Alt text](/Views_SWAPP/8.png?raw=true "Title")
+
 
 ![Alt text](/Views_SWAPP/9.png?raw=true "Title")
 
