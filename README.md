@@ -9,7 +9,7 @@
 + We can login to website using previously registered email and password (Email must contain character, @, mail name, dot, domain | Password must be min. 8 character long)
 ```
 
-![Alt text](/Views SWAPP/1.png?raw=true "Title")
+![Alt text](/Views SWAPP/1.jpg?raw=true "Title")
 ```diff
 
 + Here is validation shown
